@@ -31,4 +31,4 @@ print(df.tail())
 
 print(df)
 
-df.to_csv("data",index=True)
+df.to_csv("data",index=False)
