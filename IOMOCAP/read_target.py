@@ -23,7 +23,7 @@ for session in range(1,sessions+1):
                 row = [d[0], d[1], e[0], e[1], e[2]]
                 data.append(row)
 
-df = pd.DataFrame(data, columns = ['Session_ID', 'Sentiment', 'Valence', 'Activation', 'Dominance'])
+df = pd.DataFrame(data, columns = ['Session_ID', 'Emotion', 'Valence', 'Activation', 'Dominance'])
 
 print(df.head())
 

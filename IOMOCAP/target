@@ -1,4 +1,4 @@
-Session_ID,Sentiment,Valence,Activation,Dominance
+Session_ID,Emotion,Valence,Activation,Dominance
 Ses01F_impro01_F000,neu,2.5000,2.5000,2.5000
 Ses01F_impro01_F001,neu,2.5000,2.5000,2.5000
 Ses01F_impro01_F002,neu,2.5000,2.5000,2.5000
